@@ -91,4 +91,7 @@ body{
 .left-side{
 border-radius: 0 0 10px 10px;
 }
+.right-side{
+    padding: 20px;
+}
 }
