@@ -84,3 +84,11 @@ a:hover {
     color: rgba(255, 255, 255, 0.584);
 }
 
+@media(max-width:433px){
+body{
+    height: 100%;
+}
+.left-side{
+border-radius: 0 0 10px 10px;
+}
+}
